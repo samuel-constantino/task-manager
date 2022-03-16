@@ -1,0 +1,25 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "Aplicação Full Stack para gerenciamento e otimização de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel-constantino/task-manager.git"
+  },
+  "keywords": [
+    "react",
+    "materialUI",
+    "node",
+    "mongodb"
+  ],
+  "author": "Samuel Constantino <samuelicapuidados@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel-constantino/task-manager/issues"
+  },
+  "homepage": "https://github.com/samuel-constantino/task-manager#readme"
+}
