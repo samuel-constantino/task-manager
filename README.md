@@ -1,5 +1,5 @@
 
-<h1 align="center">Bem-vindo ao Gerenciador de Tarefas 👋</h1>
+<h1 align="center">Bem-vinda ao Gerenciador de Tarefas 👋</h1>
 
 <p>
 
@@ -33,9 +33,7 @@
 
 > Aplicação Full Stack para gerenciamento e otimização de tarefas
 
-  
-
-### 🏠 [Homepage](https://github.com/samuel-constantino/task-manager#readme)
+ 
 
 ## Documentação
 
