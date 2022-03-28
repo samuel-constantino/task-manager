@@ -1,5 +1,5 @@
 
-<h1 align="center">Bem-vinda ao Gerenciador de Tarefas 👋</h1>
+<h1 align="center">Gerenciador de Tarefas 👋</h1>
 
 <p>
 
