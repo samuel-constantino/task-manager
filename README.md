@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Gerenciador de Tarefas 👋</h1>
 
 <p>
@@ -20,24 +21,29 @@
 <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
 
 </a>
-
-<a href="https://github.com/samuel-constantino/task-manager/blob/master/LICENSE" target="_blank">
-
-<img alt="License: ISC" src="https://img.shields.io/github/license/samuel-constantino/task-manager" />
-
-</a>
-
 </p>
 
   
 
-> Aplicação Full Stack para gerenciamento e otimização de tarefas
+> Aplicação Full Stack para gerenciamento e otimização de tarefas.
+> Este repositório foi criado com o objetivo de testar minhas Hardskills como desenvolvedor Full Stack, e Softskills ao lidar e me adaptar a novas tecnologias.
 
+## Sumário
+
+- [Uso](#uso)
+- [Documentação](#documentação)
+- [Autor](#autor)
+- [Suporte](#suporte)
+- [Licença](#-licença)
+
+## Uso
+
+Estaa aplicação está disponível em produção neste [link](https://task-manager-ft-0209.herokuapp.com/)
  
 
 ## Documentação
 
-Este repositório é um ponto de partida para uma aplicação Full Stack. Segue o os links para os repositórios da aplicação:
+Segue o os links para os repositórios e documentações da aplicação:
 
 - [Back-End](https://github.com/samuel-constantino/task-manager-back-end)
 - [Front-End](https://github.com/samuel-constantino/task-manager-front-end)
@@ -65,7 +71,7 @@ Deixe uma ⭐️ se este projeto te ajudou!
 
   
 
-## 📝 License
+## 📝 Licença
 
   
 
