@@ -26,7 +26,7 @@
   
 
 > Aplicação Full Stack para gerenciamento e otimização de tarefas.
-> Este repositório foi criado com o objetivo de testar minhas Hardskills como desenvolvedor Full Stack, e Softskills ao lidar e me adaptar a novas tecnologias.
+> Este repositório foi criado com o objetivo de testar minhas hard skills como desenvolvedor Full Stack e soft skills ao lidar e me adaptar a novas tecnologias.
 
 ## Sumário
 
@@ -38,7 +38,7 @@
 
 ## Uso
 
-Estaa aplicação está disponível em produção neste [link](https://task-manager-ft-0209.herokuapp.com/)
+Esta aplicação está disponível em produção neste [link](https://task-manager-ft-0209.herokuapp.com/)
  
 
 ## Documentação
